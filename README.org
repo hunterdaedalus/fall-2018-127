@@ -1,1 +1,18 @@
 # fall-2018-127-classcode
+
+
+* Resources
+** Python Texts
+- [[https://interactivepython.org/runestone/static/thinkcspy/index.html%0A][Think like a Computer Scientist]]
+- [[https://automatetheboringstuff.com/][Automate the Boring Stuff with Python]]
+- [[https://learnpythonthehardway.org/python3/mm][Learn Python the Hard Way]]
+
+** Unix Command Line / Shell
+- [[https://www.codecademy.com/learn/learn-the-command-line][Learn the Command Line]]
+- [[http://linuxcommand.org/]]
+- [[https://hellowebbooks.com/learn-command-line/][Learn the Command Line]]
+
+
+
+
+

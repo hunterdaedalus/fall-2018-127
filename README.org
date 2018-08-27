@@ -12,6 +12,10 @@
 2) [[https://www.codecademy.com/learn/learn-the-command-line][Learn the Command Line]]
 3) [[http://linuxcommand.org/]]
 
+* Installing Thonny
+- https://thonny.org
+- Linux:
+  - Enter this line in the terminal: ~bash <(wget -O - https://thonny.org/installer-for-linux)~
 
 
 

@@ -2,12 +2,15 @@
 
 * Schedule
 
-| Date assigned | Assignment / Notes                | due  |
-|---------------+-----------------------------------+------|
-| 8/28          | Complete first 3 chapters of TLCS | 9/4  |
-| 8/28          | Complete chapter 4 and 5 of TLCS  | 9/11 |
-| 8/28          | Complete chapter 6 of TLCS        | 9/14 |
-|---------------+-----------------------------------+------|
+| Date assigned | Assignment / Notes                  | due  |
+|---------------+-------------------------------------+------|
+| 8/28          | Complete first 3 chapters of TLCS   | 9/4  |
+| 8/28          | Complete chapter 4 and 5 of TLCS    | 9/11 |
+| 8/28          | Complete chapter 6 of TLCS          | 9/14 |
+|---------------+-------------------------------------+------|
+| 9/6           | Quiz on  9/13                       | 9/13 |
+|               | Will cover git and the command line |      |
+|---------------+-------------------------------------+------|
 
 * Resources
 ** Python Texts

@@ -1,0 +1,32 @@
+#+OPTIONS: toc:nil
+_
+* Quiz 1
+
+** 
+- Create a directory in your assignments directory named *quiz-01*
+- change into that directory
+- create a file named Readme.md
+- Write in the file, one per line, the instructions / commands you
+  used to create Readme.md
+- Add to Readme.md the commands you would use to push Readme.md up to
+  GitHub.
+- Issue those commands (push Readme.md up to GitHub)
+** 
+- Using Thonny, create a file called *p1.py* in the *quiz-01* folder.
+- p1.py should have one function named *didit(name)* that takes a
+  single parameter and returns a string "name completed this problem"
+  where name is not the literal name but rather the name passed as the
+  parameter. For instance *didit("Steve")* would return a string
+  *"Steve completed this problem"*.
+- Put a print statement at the bottom of the program that tests the
+  *didit* function.
+- push p1.py up to GitHub
+** 
+- Copy the file *p1.py* to a new file named *p2.py* using the terminal
+  commands. 
+- Add lines to the *Readme.md* file listing explaining what commands
+  you used along with the commands you used to move *p1.py* up to GitHub.
+- Change *p1.py* so that it has two print statements on the bottom
+  running the *didit* function twice.
+- push p2.py up to GitHub
+

@@ -12,6 +12,7 @@
 |               | Will cover git and the command line |      |
 |---------------+-------------------------------------+------|
 
+
 * Resources
 ** Python Texts
 - [[https://interactivepython.org/runestone/static/thinkcspy/index.html%0A][Think like a Computer Scientist]]
@@ -33,3 +34,54 @@
 - [[https://stjohn.github.io/teaching/csci127/f18.html][Main CSCI 127 web site]]
 
 
+* Grading 
+
+** Expectations:
+Students are expected to learn both the mateiral covered in class and
+the material in assigned readings. 
+Grades will be calculated 
+** Honor Code:
+You are encouraged to work together on the overall design of the
+programs and homework. However, for specific programs and homework
+assignments, all work must be your own. You are responsible for
+knowing and following Hunter College's Academic Integrity Policy:
+
+Hunter College regards acts of academic dishonesty (e.g., plagiarism,
+cheating on examinations, obtaining unfair advantage, and
+falsification of records and official documents) as serious offenses
+against the values of intellectual honesty. The College is committed
+to enforcing the CUNY Policy on Academic Integrity and will pursue
+cases of academic dishonesty according to the Hunter College Academic
+Integrity Procedures.  All incidents of cheating will be reported to
+the Office of Student Conduct in the Vice President for Student
+Affairs and Dean of Students office.
+
+** Weights
+
+| Category                                      | Weight |
+|-----------------------------------------------+--------|
+| Assessments (tests, final, assignments, labs) |    70% |
+| Homework                                      |    10% |
+| Participation (in class and online)           |    10% |
+
+Explanation of Homeworks:
+
+Homeworks will be grade based on your making an honest effort rather
+than on specific program correctness. Details have been discussed in
+class. 
+
+
+Explanation of Assessments:
+
+The *assessment* portion of your grade will be calculated as an
+average of scores with a test being the basic unit. There will be two
+tests given over the course of the semester.
+
+| Assessment type   | Weight (unless otherwise specified) |
+|-------------------+-------------------------------------|
+| Test              | 1                                   |
+| Final Exam        | 2 tests                             |
+| Assignment or Lab | 20% of a test                       |
+
+Some assignments or labs might have greater or lesser weight based on
+size and complexity.

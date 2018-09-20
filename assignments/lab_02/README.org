@@ -1,0 +1,71 @@
+#+OPTIONS: toc:nil
+_
+* Lab 2
+
+Make a folder in your repo named "lab_02" for this assignemnt
+
+** Assignment:
+
+Create a program named *fizzbuzz.py*. When run it will execute the
+fizzbuzz test for numbers from 1 to 100 (inclusive). 
+
+Recall, that the program will go through all the numbers and if the
+number is divisible by 3 it will print out "Fizz" if it's divisible by
+5 it will print out "Buzz" and if divisible by both it will print out
+"FIZZBUZZ" - The first part of the output for *fizzbuzz(100)* would
+be:
+
+#+BEGIN_EXAMPLE
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+...
+#+END_EXAMPLE
+
+
+
+For this assignment, write a function:
+
+#+BEGIN_SRC python
+  def fizzbuzz(max_value):
+      # your code here
+    
+#+END_SRC
+
+which will print out the fizzbuzz sequence up to and including
+*max_value*. Unlike most functions, this function *SHOULD* print the
+output using print statements in the function. It shouldn't return a
+value (unless you're doing the bonus)
+
+Your program should runn *fizzbuzz(100)* when run.
+
+You may write additional functions if you see fit.
+
+** Assignment notes:
+
+This assignment is to be done using pair programming as discussed in
+class. When the assignment is done, make sure that both programmers
+repos have all the code.
+
+Write the names of both programmers in a  comment at the top of the
+program and also in a README.md file that you add to the repo.
+
+
+
+** Bonus:
+
+Instead of returning nothing, return the total number of times
+FizzBuzz printed out.

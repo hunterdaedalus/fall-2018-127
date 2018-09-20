@@ -12,6 +12,21 @@
 |               | Will cover git and the command line |      |
 |---------------+-------------------------------------+------|
 
+* Assignments / Labs / Quizes
+- Quizzes will take place in class during class time.
+- Labs will take place in class during class time.
+- Assignments can be done at home or in class depending. 
+- Homework will normally be distributed via email rather than here.
+- Assignments and labs are due 7:00 of the due date unless otherwise
+  noted.
+ 
+
+| Date assigned | Assignment | due  | Notes |
+|---------------+------------+------+-------|
+|               | [[https://github.com/hunterdaedalus/fall-2018-127/tree/master/assignments/quiz_01][Quiz 1]]     | Past |       |
+|               | Lab 1      | Past |       |
+| 9/24          |            | 9/27 |       |
+
 
 * Resources
 ** Python Texts

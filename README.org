@@ -21,11 +21,14 @@
   noted.
  
 
-| Date assigned | Assignment | due  | Notes |
-|---------------+------------+------+-------|
-|               | [[https://github.com/hunterdaedalus/fall-2018-127/tree/master/assignments/quiz_01][Quiz 1]]     | Past |       |
-|               | Lab 1      | Past |       |
-| 9/24          | [[https://github.com/hunterdaedalus/fall-2018-127/tree/master/assignments/lab_02][Lab 2]]      | 9/27 |       |
+| Date assigned | Assignment            | due  | folder  | Notes        |
+|---------------+-----------------------+------+---------+--------------|
+|               | [[https://github.com/hunterdaedalus/fall-2018-127/tree/master/assignments/quiz_01][Quiz 1]]                | Past | quiz_01 |              |
+|               | Lab 1                 | Past | lab_01  |              |
+| 9/24          | [[https://github.com/hunterdaedalus/fall-2018-127/tree/master/assignments/lab_02][Lab 2]]                 | 9/27 | lab_02  |              |
+| 9/27          | Loop class assignment | 9/27 | hw_03   | graded as hw |
+
+
 
 
 * Resources

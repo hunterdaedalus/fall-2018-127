@@ -1,8 +1,8 @@
 #+OPTIONS: toc:nil
 _
-* Lab 2
+* HW 4
 
-Make a folder in your repo named "hw_03" for this assignment
+Make a folder in your repo named "hw_04" for this assignment
 
 This assignment should be started in class on 10/4 and is due
 *Wednesday* October 10th at 7:00am which is *one day before* our next

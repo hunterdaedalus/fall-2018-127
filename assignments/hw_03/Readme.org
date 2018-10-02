@@ -1,0 +1,86 @@
+#+OPTIONS: toc:nil
+_
+* Lab 2
+
+Make a folder in your repo named "hw_03" for this assignment
+
+This assignment should be started in class on 10/4 and is due
+*Wednesday* October 10th at 7:00am which is *one day before* our next
+class.
+
+Remember that you can use either of the online texts, your classmates,
+and the mailing list for assistance.
+
+I encourage you to work in pairs for this assignment but make sure
+that you and your partner have:
+- the code copied in each of your repos
+- the names of both participants in a comment at the top of the file
+- the names of both participants in the Readme file.
+
+
+** Starter code:
+
+In class we wrote this routine that would create and return a list
+with a set number of elements each set to a random value:
+
+#+BEGIN_SRC python
+  import random
+
+  def build_random_list(size,max_value):
+      """
+      Parameters:
+        size : the number of elements in the lsit
+        max_value : the max random value to put in the list
+      """
+      l = [] # start with an empty list
+
+      # make a loop that counts up to size
+      i = 0
+      while i < size:
+          l.append(random.randrange(0,max_value))
+          # we could have written this instead of the above line:
+          # l = l + [random.randrange(0,max_value)]
+          i = i + 1
+      return l
+
+#+END_SRC
+
+** Assignments
+
+*IMPORTANT NOTE*: Unless otherwise specified you may not use the
+ single line built in Python list functions and methods for these
+ problems. You must essentially write them from scratch using loops,
+ conditionals, etc.
+
+
+*** Place the starter code in a file named *lists.py* and test it. You will be adding more routines to this file.
+
+*** Write and test a function named *locate(l,value)*  
+This routine should accept a list as the first parameter and a value
+for the second. The function will look for *value* in the list and
+return it's index. Return -1 if *value* isn't in the lsit.
+
+
+*** Write and test a function named *count(l,value)*
+This routine should accept a list as the first parameter and a value
+for the second. It should return the number of times *value* appears
+in the list *l*
+
+*** Write and test a function named *reverse(l)*
+This function should accept a list as its parameter. It will build
+and return a new list which has the same elements as the original but
+with the values reversed.
+
+*** Write and test a function named *isIncreasing(l)*
+This function should accept a list as its parameter. It will return
+*True* if the list is strictly increasing, that is starting with the
+first element, each successive element is greater than the
+previous. For example, the list 1,5,10,11,13 is increasing while
+1,5,3,6 and 1,4,4,6 are not.
+
+*** Write and test a function named *palindrome(l)*
+This function should return True if the list represents a palindrome
+and False otherwise. A list is a palindrome if it has the same
+elements left to right as it does right to left.
+
+

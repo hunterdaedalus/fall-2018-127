@@ -94,3 +94,8 @@ pl_sencence = " ".join(mymap(piglatinify,sentence.split()))
 
 spacestring = " hello "
 
+NOUNS = ["car",'dog','hammer']
+
+def func_that_uses_NOUNS():
+    global NOUNS
+    # now I can use the NOUNS variable

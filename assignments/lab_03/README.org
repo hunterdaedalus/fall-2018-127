@@ -2,7 +2,7 @@
 _
 * Lab 3
 
-Make a folder in your repo named "lab_032" for this assignment
+Make a folder in your repo named "lab_03" for this assignment
 
 ** Assignment:
 

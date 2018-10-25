@@ -19,7 +19,6 @@ def compress_sentence(sentence):
         result.append(compress_word(word))
     return " ".join(result)
 
-print("Testing compress_word")
 
 print('apple',compress_word("apple"))
 print("I",compress_word("I"))

@@ -1,0 +1,44 @@
+#+OPTIONS: toc:nil
+_
+* Lab 4
+
+
+
+Make a folder in your repo named "lab_04" for this assignment. It is
+due on Monday 11/5 7:00am.
+
+Solve these two problems:
+
+** Apple and Orange
+
+You can read this problem on hackerrank using this link: 
+
+https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=internal-search
+
+or you can look at this PDF: 
+
+
+https://github.com/hunterdaedalus/fall-2018-127/blob/master/assignments/lab_04/Apple%20and%20Orange%20_%20Week%20of%20Code%2024%20Question%20_%20Contests%20_%20HackerRank.pdf
+
+Name your program ~apple.py~ and write a function that implements the
+specified function.
+
+You should not do keyboard input but rather your program, when run,
+should call the function you write to answer the question and print
+out solutions to show that it works.
+
+** Happy Laddybugs
+
+You can view the question on hackerrank here:
+
+https://www.hackerrank.com/challenges/happy-ladybugs/problem?h_r=internal-search
+
+or the pdf here:
+
+https://github.com/hunterdaedalus/fall-2018-127/blob/master/assignments/lab_04/Happy%20Ladybugs%20_%20Week%20of%20Code%2024%20Question%20_%20Contests%20_%20HackerRank.pdf
+
+Name the program ~lady,py~ and when it is run it should call the
+function you wrote with sample inputs to show that it works.
+
+
+

@@ -1,0 +1,57 @@
+#+OPTIONS: toc:nil
+_
+* Lab 3
+
+Make a folder in your repo named "lab_03" for this assignment
+
+** Assignment:
+
+Create a program name *madlibs.py*. 
+
+Your program will take a string with substitutions in it. For example,
+your starting sentence might be:
+
+#+BEGIN_EXAMPLE
+Sam <VERB> the <NOUN> and then <VERB> the <NOUN> later.
+#+END_EXAMPLE
+
+Your program should also have lists of parts of speech like:
+
+#+BEGIN_SRC 
+VERBS=['ate','walked','slept']
+NOUNS=['dog','hammer','cat','car','frog']
+#+END_SRC
+
+When you see a word in angle brackets, replace it with a random word
+of that type. So, for instance, the above sample sentence might be
+transformed into:
+
+#+BEGIN_EXAMPLE
+Sam ate the hammer and then waled the frog later.
+#+END_EXAMPLE
+
+
+** Assignment notes:
+
+For this assignment, you are to decide what functions to write, what
+to name them and how to structure your program.
+
+You should also decide on what parts of speech you will use for
+substitutions.
+
+
+When run, it should print out at least two original sentence each
+followed by two different madlab outputs for each.
+
+For the more ambitious of you, add some replacements that are unique. 
+For example, in this sentence:
+#+BEGIN_EXAMPLE
+<HERO> <VERB> in the <NOUN> and then <HERO> <VERB> <NOUN> later.
+#+END_EXAMPLE
+
+In this case, each <VERB> and <NOUN> would be replaced by a random
+selection from the word lists but <HERO> would randomly choose a hero
+once and then use that name for all instances of <HERO>
+
+
+

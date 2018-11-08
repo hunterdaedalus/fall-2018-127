@@ -7,30 +7,21 @@ def build_word_counts(words):
         d[word]=d[word]+1
     return d
 
+def clean_data(s):
+    result=""
+    for letter in s:
+        if letter in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ":
+            result = result + letter.lower()
+        else:
+            result = result + " "
+    return result
 
-
-#s = "one two three four five four six three seven three two three eight nine"
-#d=build_word_counts(s)
-#print(d)
-
-# you should only need filename="macbeth.txt"
 filename="/home/zamansky/gh/fall-2018-127/classcode/dictionaries/macbeth.txt"
 f = open(filename)
-# we can read the whole thing
 s = f.read()
-print(s)
-f.close()
-print("-------")
-# or we can read a line at a time.
-f = open(filename)
-s = f.readline()
-print(s)
-s = f.readline()
-print(s)
-f.close()
-print('------')
-f = open(filename)
-for line in f.readlines():
-    print(line)
-
-
+words_uncleaned = build_word_counts(s)
+print(words_uncleaned)
+cleaned_string = clean_data(s)
+print("-------------------")
+words = build_word_counts(cleaned_string)
+print(words)
